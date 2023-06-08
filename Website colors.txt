@@ -1,0 +1,9 @@
+Colors html codes for my Website
+
+(header)Background: 0F0431
+(body)Background: 51527E
+Pink: ff008b
+Turrquoise : 00ffa6
+Purple-y Periwinkle: A49EDB
+Mint: 99ECCD
+azure: azure 
